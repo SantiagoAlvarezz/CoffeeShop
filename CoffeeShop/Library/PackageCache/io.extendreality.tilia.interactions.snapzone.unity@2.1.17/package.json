@@ -1,0 +1,48 @@
+{
+    "name": "io.extendreality.tilia.interactions.snapzone.unity",
+    "displayName": "Tilia Interactions SnapZone Unity",
+    "description": "A spatial zone in which an interactable object can be snapped into the designated area for the Unity software.",
+    "changelogUrl": "https://github.com/ExtendRealityLtd/Tilia.Interactions.SnapZone.Unity/blob/master/CHANGELOG.md",
+    "documentationUrl": "https://github.com/ExtendRealityLtd/Tilia.Interactions.SnapZone.Unity/tree/master/Documentation",
+    "licensesUrl": "https://github.com/ExtendRealityLtd/Tilia.Interactions.SnapZone.Unity/blob/master/LICENSE.md",
+    "version": "2.1.17",
+    "unity": "2018.3",
+    "unityRelease": "10f1",
+    "keywords": [
+        "interactions",
+        "snapzone",
+        "snap",
+        "dropzone",
+        "socket"
+    ],
+    "homepage": "https://github.com/ExtendRealityLtd/Tilia.Interactions.SnapZone.Unity/",
+    "bugs": {
+        "url": "https://github.com/ExtendRealityLtd/Tilia.Interactions.SnapZone.Unity/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "ssh://git@github.com/ExtendRealityLtd/Tilia.Interactions.SnapZone.Unity.git"
+    },
+    "license": "MIT",
+    "author": {
+        "name": "Extend Reality Ltd",
+        "email": "hello@extendreality.io",
+        "url": "https://github.com/ExtendRealityLtd"
+    },
+    "dependencies": {
+        "io.extendreality.zinnia.unity": "2.3.0",
+        "io.extendreality.tilia.utilities.shaders.unity": "1.3.1",
+        "io.extendreality.tilia.mutators.objectfollower.unity": "2.0.4",
+        "io.extendreality.tilia.interactions.interactables.unity": "2.7.0"
+    },
+    "files": [
+        "*.md",
+        "*.meta",
+        "*.asmdef",
+        "*.xml",
+        "Documentation",
+        "Runtime",
+        "Editor",
+        "docfx.json"
+    ]
+}
