@@ -1,0 +1,18 @@
+{
+    "name": "Tilia.Interactions.Controllables.Unity.Editor",
+    "references": [
+        "Zinnia.Editor",
+        "Tilia.Interactions.Controllables.Unity.Runtime",
+        "Tilia.Interactions.Interactables.Unity.Runtime"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}
